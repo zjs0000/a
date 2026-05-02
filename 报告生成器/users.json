@@ -1,0 +1,19 @@
+{
+  "credentials": {
+    "usernames": {
+      "13928740327@163.com": {
+        "email": "13928740327@163.com",
+        "name": "啊哈哈哈哈",
+        "password": "$2b$12$clRdkNAc1NFASnMFhuR/BOhG/E9lOZa0HqhtABXWt7c9kAwIvBMHy"
+      }
+    }
+  },
+  "cookie": {
+    "expiry_days": 30,
+    "key": "ai_report_final_20260503_v3",
+    "name": "ai_report_cookie_final_20260503_v3"
+  },
+  "preauthorized": {
+    "emails": []
+  }
+}
